@@ -86,7 +86,7 @@ class Game:
 
     def screenShot(self):
         """saves the screen as "screenshot.jpg" in cwd of this .py file"""
-        img = pygame.image.save(self.screen, "screenshot.jpg")
+        pygame.image.save(self.screen, "screenshot.jpg")
 
     def convertImage(self, img, imgSize):
         """
