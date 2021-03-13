@@ -30,7 +30,6 @@ class Game:
         # pygame variables
         self.screen = screen
         self.predScreen = None
-        # self.bg_color = pygame.Color('black')
         self.FPS = 120
         self.game_Clock = pygame.time.Clock()
         self.close_clicked = False
