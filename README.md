@@ -9,7 +9,7 @@ SPACE: screenshots the window
 P: uses the model to predict the digit you drew  
 LSHIFT: trigger eraser mode  
 RSHIFT: trigger pen mode  
-R_CLICK: draw/erase
+L_CLICK: draw/erase
 
 Step 1: draw using the mouse in pen mode  
 Step 2: press SPACE to take a screenshot  
