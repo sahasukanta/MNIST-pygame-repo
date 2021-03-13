@@ -11,11 +11,11 @@ LSHIFT: trigger eraser mode
 RSHIFT: trigger pen mode  
 R_CLICK: draw/erase
 
-Step 1: draw using the mouse in pen mode
-Step 2: press SPACE to take a screenshot
-Step 3: press P to make the model predict
-Step 4: erase and repeat!
+Step 1: draw using the mouse in pen mode  
+Step 2: press SPACE to take a screenshot  
+Step 3: press P to make the model predict  
+Step 4: erase and repeat!  
 
-Model is the exact code from https://www.tensorflow.org/datasets/keras_example
+Model is the exact code from https://www.tensorflow.org/datasets/keras_example  
 
 Built with Pygame 1.9.6 and Tensorflow 2.3.1
